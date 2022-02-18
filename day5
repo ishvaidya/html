@@ -1,0 +1,10 @@
+<html>
+<head>
+<title> style ! </title>
+</head>
+<body>
+<h1> Let's learn style tag </h1>
+<p> The style attribute is used to add styles to an element, such as color, font, size, and more </p>
+<p style="color:red;"> THIS IS MY FAV COLOR ! </p>
+</body>
+</html>
