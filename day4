@@ -1,0 +1,10 @@
+<html>
+<head>
+<title> welcome to my page </title>
+<body>
+<h1> learning alt! </h1>
+<p> let's learn alt tag. </p>
+<p> alt attribute / tag specifies an alternate text for an image, if the image for some reason cannot be displayed. </p>
+<img src="pink.jpg" alt="girl with pink dress">
+</body>
+</html>
