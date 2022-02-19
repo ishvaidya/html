@@ -1,0 +1,12 @@
+<html>
+<head>
+<title> background tag ! </title>
+<h1> lets learn bg tag </h1>
+<p> ussed to set background color </p>
+<body style="background-color:powderblue;">
+
+<h1> heading h1</h1>
+<p>woah ! beautiful blue</p>
+
+</body>
+</html>
