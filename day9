@@ -1,0 +1,15 @@
+<html>
+<head>
+<title> its day 9 </title>
+</head>
+<body>
+<h1> lets learn hr in html </h1>
+<p> displayed as a horizontal rule. </p>
+<hr>
+<h2> lets know why it's used </h2>
+<p> used to separate content (or define a change) in an HTML page. <p>
+<hr>
+<h3> what it's known </h3>
+<p>The hr tag is an empty tag, which means that it has no end tag.</p>
+</body>
+</html>
