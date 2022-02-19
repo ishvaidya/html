@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> Bigger headings </title>
+</head>
+<body>
+<p> each heading in html has a default value </p>
+<p> we can also increase the size of our headings by using style tag </p>
+<h1> let's learn how to increase heading tag </h1>
+<h1 style="font-size=10px;" </h1>
+</body>
+</html>
