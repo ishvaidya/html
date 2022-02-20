@@ -1,0 +1,9 @@
+<html>
+<head>
+<title> lets learn txt fixing txt size </title>
+</head>
+<body>
+<h1 style="font-size=300%;"> heading size is changed! </h1>
+<p style="font-size=200%;"> para size is changed </p>
+</body>
+</html>
