@@ -1,0 +1,18 @@
+<html>
+<head>
+<title> lets learn formating </title>
+</head>
+<body>
+<h1> learn bold, italic, strong tags </h1>
+<p> this is a simple para </p>
+
+<p><b> this para is know in bold letters </b></p>
+<p><i> this para is know in italic style </i></p>
+<p><strong> The content inside is typically displayed in bold. </strong></p>
+<p><em>  The content inside is typically displayed in italic. </em></p>
+<p><small> defines smaller text </small></p>
+<p>  'mark' element defines text that should be marked or highlighted </p>
+<p> do not forget to practice <mark> html </mark> today </p>
+<p> my fav dish is <del> pasta </del> <ins> sandwich </ins> </p>
+</body>
+</html>
