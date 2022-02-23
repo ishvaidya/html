@@ -1,0 +1,15 @@
+<html>
+<head>
+<title> address tag </title>
+</head>
+<body>
+<h1> lets learn address tag </h1>
+<p>The HTML address element defines contact information (author/owner) of a document or article.</p>
+<address>
+ishwari vaidya <br>
+sybca <br>
+navi peth <br>
+413003 <br>
+</address>
+</body>
+</html>
